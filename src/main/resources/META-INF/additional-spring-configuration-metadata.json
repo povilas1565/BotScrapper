@@ -1,0 +1,43 @@
+{
+  "properties": [
+    {
+      "name": "telegram.useMessageDatabase",
+      "type": "java.lang.Boolean",
+      "description": "Description for telegram.useMessageDatabase."
+    },
+    {
+      "name": "telegram.useSecretChats",
+      "type": "java.lang.Boolean",
+      "description": "Description for telegram.useSecretChats."
+    },
+    {
+      "name": "telegram.apiId",
+      "type": "java.lang.Integer",
+      "description": "Description for telegram.apiId."
+    },
+    {
+      "name": "telegram.apiHash",
+      "type": "java.lang.String",
+      "description": "Description for telegram.apiHash."
+    },
+    {
+      "name": "telegram.systemLanguageCode",
+      "type": "java.lang.String",
+      "description": "Description for telegram.systemLanguageCode."
+    },
+    {
+      "name": "telegram.deviceModel",
+      "type": "java.lang.String",
+      "description": "Description for telegram.deviceModel."
+    },
+    {
+      "name": "telegram.applicationVersion",
+      "type": "java.lang.String",
+      "description": "Description for telegram.applicationVersion."
+    },
+    {
+      "name": "telegram.enableStorageOptimizer",
+      "type": "java.lang.Boolean",
+      "description": "Description for telegram.enableStorageOptimizer."
+    }
+  ] }
